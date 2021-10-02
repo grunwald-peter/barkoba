@@ -1,1 +1,2 @@
 Targy? = IGEN
+Valami
