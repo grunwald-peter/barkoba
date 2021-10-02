@@ -2,3 +2,4 @@ Targy? = IGEN
 Valami
 Valami 3
 Valam5
+Valami6
